@@ -1,7 +1,7 @@
 ---
 inProgress: false
-title: Project title
-img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+title: Minimal Web APIs in .Net
+img_alt: Minimal APIs are architected to create HTTP APIs with minimal code footprint.
+link: https://github.com/Johnz86/DotnetMinimalApi
+tags: ['C#', 'CSS', 'Json']
 ---

@@ -1,7 +1,7 @@
 ---
 inProgress: false
-title: Project title
+title: NET BuildContainers - Simplified Containerization
 img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+link: https://github.com/Johnz86/DotNETBuildContainers
+tags: ['C#', 'Docker', 'Css']
 ---
